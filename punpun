@@ -1,0 +1,117 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/S__7938079.jpg",
+            "size": "full",
+            "animated": true,
+            "aspectMode": "cover",
+            "aspectRatio": "2.3:3",
+            "offsetBottom": "none"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "uri": "https://liff.line.me/2008853680-9HWMPEmj",
+              "label": "    "
+            },
+            "position": "absolute",
+            "offsetTop": "90%",
+            "offsetEnd": "30%",
+            "gravity": "bottom",
+            "offsetStart": "35%",
+            "offsetBottom": "0%"
+          }
+        ],
+        "borderWidth": "none",
+        "paddingAll": "none"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/S__7938080_0.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "2.9:3",
+        "animated": true,
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://youtube.com/shorts/zmuIZK8EVv4?si=sEQR7Wg5K8_rCzCe"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#F54927",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ชีวิตของเรามีแค่สี่พันสัปดาห์",
+            "weight": "bold",
+            "size": "md",
+            "color": "#E8E8E8",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "แนะนำโดย :  รณกร บุตรวงค์",
+            "size": "sm",
+            "color": "#E8E8E8",
+            "wrap": true
+          }
+        ],
+        "cornerRadius": "none"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/S__7938081_0.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "2.9:3",
+        "animated": true,
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://youtube.com/shorts/ZUfYiyaQWZk?si=2_IZOPmth_z-Jo8J"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "backgroundColor": "#F54927",
+        "contents": [
+          {
+            "type": "text",
+            "text": "คนจรดาบ",
+            "weight": "bold",
+            "size": "md",
+            "color": "#E8E8E8",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "แนะนำโดย : ศุภวิชญ์ ทองนุ้ย",
+            "size": "sm",
+            "color": "#E8E8E8",
+            "wrap": true
+          }
+        ],
+        "cornerRadius": "none"
+      }
+    }
+  ]
+}
